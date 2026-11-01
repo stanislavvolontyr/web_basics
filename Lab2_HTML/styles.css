@@ -10,6 +10,10 @@ h1, h2 {
     color: #0056b3;
 }
 
+title {
+    color:#666565
+}
+
 a {
     color: #0066cc;
     text-decoration: none;
